@@ -49,7 +49,7 @@
 }
 
 .visor.active {
-    background-image: url(/miViejaMula.gif);
+    background-image: url(miViejaMula.gif);
     background-size: cover;
 }
 
